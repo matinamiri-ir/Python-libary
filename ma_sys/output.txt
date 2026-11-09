@@ -1,0 +1,11 @@
+sys version-> 3.14.6 | packaged by Anaconda, Inc. | (main, Jun 18 2026, 21:28:09) [GCC 14.3.0]
+Command line args:  ['ma_sys.py']
+os platform:  linux
+the Memory size of an object (in Bytes):  32
+the log finished
+Processing step 1
+Processing step 2
+Processing step 3
+Processing step 4
+Processing step 5
+Hello Python
